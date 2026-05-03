@@ -1,2 +1,18 @@
-# phone-scientific-calculator-
-A phone-style scientific calculator built with HTML, CSS, and JavaScript supporting basic and scientific operations like sin, cos, tan, and square root.
+# Scientific Calculator App
+
+A phone-style scientific calculator built using HTML, CSS, and JavaScript.
+
+## Features
+- Basic arithmetic operations (+, -, ×, ÷)
+- Scientific functions (sin, cos, tan, sqrt)
+- Clean phone-style UI
+- Responsive design
+
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+
+## Purpose
+Built to practice DOM manipulation, event handling, and building interactive UI components.
+
