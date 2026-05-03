@@ -16,3 +16,5 @@ A phone-style scientific calculator built using HTML, CSS, and JavaScript.
 ## Purpose
 Built to practice DOM manipulation, event handling, and building interactive UI components.
 
+## Live Demo
+https://japhet996sunday-cell.github.io/phone-scientific-calculator-/
